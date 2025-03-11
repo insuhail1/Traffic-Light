@@ -2,6 +2,12 @@
 
 A simple Traffic Light component built with React and Tailwind CSS. It cycles through Green → Yellow → Red in an infinite loop, following the specified durations.
 
+<img width="364" alt="image" src="https://github.com/user-attachments/assets/d2f71429-8e3a-4d82-9807-8667cb0bef99" />
+
+<img width="472" alt="image" src="https://github.com/user-attachments/assets/ea83a152-7631-40c0-8941-d2e0c6940880" />
+
+
+
 ## 📌 Features
 
 ✅ Starts with Green
@@ -10,6 +16,8 @@ A simple Traffic Light component built with React and Tailwind CSS. It cycles th
 ✅ Green appears for 3000ms
 ✅ Loops infinitely
 ✅ Smooth transitions using Tailwind CSS
+
+
 
 # React + Vite
 
